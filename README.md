@@ -1,0 +1,1 @@
+Neste projeto de estacionamento usamos duas tecnologias externas ao java, importação e exportação de arquivos JSON e a utilização de bibliotecas de teste unitário para verificar cada método, para testar basta executar a partir da classe main dos arquivos. 
