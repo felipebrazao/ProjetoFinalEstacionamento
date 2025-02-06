@@ -52,3 +52,6 @@ src/
            ├── estacionamento/
            │    ├── MainTest.java
            │    └── ...
+```
+## Licença
+Este projeto está licenciado sob a Licença MIT
