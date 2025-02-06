@@ -1,7 +1,3 @@
-Aqui está um README mais detalhado para o projeto:
-
----
-
 # Projeto Final Estacionamento
 
 Este projeto é uma aplicação de gestão de estacionamento, desenvolvido em Java, com foco em simular o processo de controle de veículos que entram e saem de um estacionamento, com a capacidade de gerar relatórios e salvar dados de forma persistente.
