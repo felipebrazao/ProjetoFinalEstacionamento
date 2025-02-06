@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação de gestão de estacionamento, desenvolvido em Java, com foco em simular o processo de controle de veículos que entram e saem de um estacionamento, com a capacidade de gerar relatórios e salvar dados de forma persistente.
 
+Um dos principais diferenciais deste projeto é o uso extensivo de testes unitários com JUnit 5, garantindo a confiabilidade e a integridade das funcionalidades implementadas.
+
 ## Funcionalidades
 - **Cadastro de veículos**: Adiciona veículos ao estacionamento com detalhes como placa, modelo e tipo.
 - **Controle de entrada e saída**: Registra quando um veículo entra ou sai do estacionamento.
